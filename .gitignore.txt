@@ -30,3 +30,13 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore media files
+media/
+
+# Ignore virtual environment
+mykevo/
